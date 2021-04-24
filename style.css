@@ -1,0 +1,48 @@
+.container{
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+
+.calc-area{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.button{
+    width: 25%;
+    border: 1px solid black;
+    font-family: inherit;
+    font-size: 2rem;
+}
+
+.result-area{
+    background-color: black ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    height: 3rem;
+    padding: 2rem 1rem 2rem 2rem;
+    text-align: right;
+}
+
+.row_1,.row_2,.row_3,.row_4,.row_5{
+    display: flex;
+    width: 100%;
+    height: 5rem;   
+}
+
+.number,.operation{
+    width: 25%;
+}
+
+.num0{
+    width: 75%;
+}
+
+.op_cle{
+    width: 50%;
+}
+
+.col_1{
+    background-color: #df974c;
+}
