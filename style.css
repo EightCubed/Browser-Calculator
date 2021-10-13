@@ -1,12 +1,13 @@
 .container{
     margin-top: 5rem;
     font-size: 2rem;
+    background-color: azure;
 }
 
 .calc-area{
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 25%;
 }
 
 .button{
@@ -14,6 +15,7 @@
     border: 1px solid black;
     font-family: inherit;
     font-size: 2rem;
+    border-radius: 5%;
 }
 
 .result-area{
